@@ -16,7 +16,7 @@ Previo a iniciar el desarrollo de software para web usando el framework de NodeJ
 |7.|Sentencias de control y ciclos|16|Activa|
 
 ### Autor 
-Michelle Castro Otero
-Unidad 1
-Aplicaciones Web Orientadas a Servicios 
+Michelle Castro Otero<br>
+Unidad 1 <br>
+Aplicaciones Web Orientadas a Servicios <br>
 Septiembre - 2024
