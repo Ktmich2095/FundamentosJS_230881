@@ -290,6 +290,7 @@ let seriesConTresTemporadas = seriesTrending2
 .filter(serie=>serie.temporadas<=3)//Filtramos las series que tienen 3 temporadas
 .map(serie=>serie.nombre)//Obtenemos solo los nombres de esas series
 .filter(nombre=>seriesDeseadas.includes(nombre))//Filtramos las que estan en la lista de series deseadas
+
 //Mostrar los resultados
 console.log("Series con 3 temporadas que están en la lista deseada:");
 console.log(seriesConTresTemporadas);
