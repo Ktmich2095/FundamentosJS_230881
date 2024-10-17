@@ -3,6 +3,7 @@ Proyectos de Clase para la Unidad 1 de la asignatura de Aplicaciones Web Orienta
 
 ## Descripción
 Previo a inclinar el desarrollo de software para web usando el framework de NodeJS, realizaremos un par de prácticas de repaso en JavaScipt puro, con el objetivo de confirmar los conocimientos básicos de logica de programación.
+Previo a inclinar el desarrollo de software para web usando el framework de NodeJS, realizaremos un par de prácticas de repaso en JavaScipt puro, con el objetivo de confirmar los conocimientos básicos de logica de programación.
 
 ## Historial de Prácticas
 |No.|Descripción|Estatus|
