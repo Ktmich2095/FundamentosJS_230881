@@ -284,7 +284,7 @@ seriesTrending2.forEach((serie,index)=>{
 })
 //Usando filter para filtrar y map para transformar la informacion
 //Lista de series que queremos verificar
-let seriesDeseadas=["love Alarm","True beauty","El goblin"];
+let seriesDeseadas=["Love Alarm","True beauty","El goblin"];
 //usando map e includes para filtrar y obtener los nombres de series con 3 temporadas
 let seriesConTresTemporadas = seriesTrending2
 .filter(serie=>serie.temporadas<=3)//Filtramos las series que tienen 3 temporadas
