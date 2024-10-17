@@ -343,6 +343,7 @@ console.log(`Esta el objeto de Pedido Congelado ? : ${Object.isFrozen(Producto)}
 console.log(`Esta el objeto de Pedido Congelado: ${Object.isSealed(Producto)}`);
 
 //Modificamos la estructura de producto, agregando una nueva propiedad
+
 Producto["isLegacy"]=false;
 console.log(Producto)
 console.log(Venta2)
